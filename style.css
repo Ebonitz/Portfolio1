@@ -15,10 +15,10 @@ body{
 
 .text1{
     text-align: center;
-  
+    padding-top: 50px;
     color: #F1E6C8;
     font-family: "Jura", sans-serif;
-    font-size: 64px;
+    font-size: 70px;
 }
 
 
@@ -35,7 +35,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-bottom: 200px;
+    padding-bottom: 50px;
 }
 
 .line{
@@ -43,7 +43,6 @@ body{
     padding: 60px;
     height: 3px;
     width: 1775px;
-    margin: 0;
 }
 
 .zv{
@@ -53,8 +52,9 @@ body{
 
 .hudog{
     color: #F1E6C8;
-    font-family: "Jura", sans-serif;
+    font-family: "Alegreya Sans SC", sans-serif;
     font-size: 32px;
+    margin: 0;
 }
 
 .mary{
@@ -62,10 +62,38 @@ body{
     font-family: "Jura", sans-serif;
     font-size: 96px;
     margin: 0;
-
 }
 
 .me{
     width: 692px;
     height: 567px;
+}
+
+.iss{
+    color: #F1E6C8;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 48px;
+    padding-top: 50px;
+}
+
+.second-screen{
+    display: flex;
+    background-color: #9FA0B1;
+    width: 1298px;
+}
+
+.aboutme{
+
+}
+
+.student{
+
+}
+
+.whati{
+
+}
+
+.spisok{
+
 }
