@@ -134,6 +134,17 @@ body{
 
 }
 
+#gif1 {
+    width: 472px;
+    height: 472px;
+    background-image: url("img2/image 7.png");
+}
+
+#gif1:hover {
+    background-image: url("img2/gif2.gif");
+    background-position: center;
+}
+
 .img3{
     display: flex;
     gap: 156px;
