@@ -1,4 +1,4 @@
-.body{
+body{
     margin: 0;
     padding: 0;
     text-decoration: 0;
@@ -6,5 +6,17 @@
 }
 
 .Years{
+    display: flex;
+    background-color: #56597C;
+    height: 111px;
+}
 
+.text1{
+
+
+}
+
+.first-screen{
+
+    
 }
