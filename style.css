@@ -5,6 +5,12 @@ body{
     list-style: 0;
 }
 
+h1{
+    font-size: 48px;
+    font-family: "Alegreya Sans SC", sans-serif ;
+    font-weight: 400;
+}
+
 .Years{
     display: flex;
     background-color: #56597C;
@@ -67,6 +73,17 @@ body{
 .me{
     width: 692px;
     height: 567px;
+}
+
+#gif1 {
+    width: 692px;
+    height: 567px;
+    background-image: url("img2/image 3.png");
+}
+
+#gif1:hover {
+    background-image: url("img2/gif2.gif");
+    background-position: center;
 }
 
 .iss{
@@ -134,16 +151,7 @@ body{
 
 }
 
-#gif1 {
-    width: 472px;
-    height: 472px;
-    background-image: url("img2/image 7.png");
-}
 
-#gif1:hover {
-    background-image: url("img2/gif2.gif");
-    background-position: center;
-}
 
 .img3{
     display: flex;
