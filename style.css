@@ -71,18 +71,18 @@ h1{
 }
 
 .me{
-    width: 692px;
-    height: 567px;
+    width: 582px;
+    height: 5582px;
 }
 
 #gif1 {
-    width: 692px;
-    height: 567px;
+    width: 582px;
+    height: 582px;
     background-image: url("img2/image 3.png");
 }
 
 #gif1:hover {
-    background-image: url("img2/gif2.gif");
+    background-image: url("img2/starman.gif");
     background-position: center;
 }
 
