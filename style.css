@@ -9,14 +9,63 @@ body{
     display: flex;
     background-color: #56597C;
     height: 111px;
+    align-items: center;
+    justify-content: center;
 }
 
 .text1{
+    text-align: center;
+  
+    color: #F1E6C8;
+    font-family: "Jura", sans-serif;
+    font-size: 64px;
+}
 
+
+
+.first-screen{
+    display: flex;
+    background-color: #56597C;
+    height: 1080px;
+}
+
+
+.zvzdchk{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 200px;
+}
+
+.line{
+    display: flex;
+    padding: 60px;
+    height: 3px;
+    width: 1775px;
+    margin: 0;
+}
+
+.zv{
+    width: 25px;
+    height: 36px;
+}
+
+.hudog{
+    color: #F1E6C8;
+    font-family: "Jura", sans-serif;
+    font-size: 32px;
+}
+
+.mary{
+    color: #F1E6C8;
+    font-family: "Jura", sans-serif;
+    font-size: 96px;
+    margin: 0;
 
 }
 
-.first-screen{
-
-    
+.me{
+    width: 692px;
+    height: 567px;
 }
